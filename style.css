@@ -1,0 +1,7 @@
+.container{
+    border:1px solicd black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
